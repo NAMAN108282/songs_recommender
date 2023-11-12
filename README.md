@@ -1,7 +1,9 @@
-# Songs Recommender based on user song data history
+# Songs Recommender based on users historical song data
 
 
 install requirements:
+
 > python
+
 > pyspark
 
